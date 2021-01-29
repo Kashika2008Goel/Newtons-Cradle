@@ -1,2 +1,1 @@
-# Newtons-Cradle
-Project 27
+# NC27
